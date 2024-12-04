@@ -17,7 +17,7 @@ git clone https://github.com/CodingwithFawad/Emotion-Classification-with-Transfo
 
 ```
 ```
-cd emotion-classification
+cd Emotion-Classification-with-Transformers
 ```
 
  **Install Dependencies**:
@@ -30,12 +30,12 @@ pip install -r requirements.txt
 ## Usage
 
 1. **Run the Application**
-   ```bash
-   Emotion Classification.py
+   ```
+   python Emotion-Classification-with-Transformers.py
    ```
 
 2. **Access the Interface**  
-   Open your browser and go to: [http://127.0.0.1:7860](http://127.0.0.1:7860).
+   Open your browser and open the Gradio link.
 
 3. **Classify Emotions**  
    Type a sentence into the input box and click the **Classify** button to view the emotion probabilities.
