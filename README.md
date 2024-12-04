@@ -5,11 +5,12 @@ This project demonstrates emotion classification using a Transformer-based model
 ## Features
 - **Transformer Model**: Leverages the `roberta-base-go_emotions` model for accurate emotion classification.
 - **User-Friendly Interface**: Powered by Gradio, with a clean and professional design.
-- **Real-Time Emotion Analysis**: Displays emotion probabilities instantly based on user input.
+- **Emotion Analysis**: Displays emotion probabilities instantly based on user input.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/emotion-classification.git
-   cd emotion-classification
+
+2.   cd emotion-classification
