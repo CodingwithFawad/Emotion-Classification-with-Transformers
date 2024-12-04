@@ -1,14 +1,14 @@
-# Emotion Classification with Transformers <br/>
+# Emotion Classification with Transformers 
 
 This project demonstrates emotion classification using a Transformer-based model, `SamLowe/roberta-base-go_emotions`, and a user-friendly interface built with [Gradio](https://gradio.app/). Users can input a sentence and receive a breakdown of emotion probabilities, providing insights into the emotional context of the text.
 
-## Features <br/>
+## Features 
 
 - **Transformer Model**: Leverages the `roberta-base-go_emotions` model for accurate emotion classification.
 - **User-Friendly Interface**: Powered by Gradio, with a clean and professional design.
 - **Emotion Analysis**: Displays emotion probabilities instantly based on user input.
 
-## Installation <br/>
+## Installation 
 
  **Clone the Repository**:
    
@@ -57,6 +57,7 @@ pip install -r requirements.txt
 
 
 ## Model Details
+
 - **Name**: `SamLowe/roberta-base-go_emotions`
 - **Source**: [Hugging Face](https://huggingface.co/)
 - **Dataset**: Fine-tuned on the **GoEmotions** dataset by Google, which includes 27 emotion categories.
@@ -64,6 +65,7 @@ pip install -r requirements.txt
 
 
 ## Acknowledgments
+
 - **Hugging Face**: For providing the pre-trained model and pipeline.
 - **Gradio**: For the intuitive and easy-to-use interface.
 - **Google**: For creating the **GoEmotions** dataset.
