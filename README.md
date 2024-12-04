@@ -12,11 +12,11 @@ This project demonstrates emotion classification using a Transformer-based model
  **Clone the Repository**:
    
    ```bash
-   git clone https://github.com/yourusername/emotion-classification.git
+     git clone https://github.com/yourusername/emotion-classification.git
 
 
    ```bash
-   cd emotion-classification
+     cd emotion-classification
 
  **Install Dependencies**:
 
