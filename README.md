@@ -16,15 +16,20 @@ This project demonstrates emotion classification using a Transformer-based model
     ```
 
 
+
    ```bash
      cd emotion-classification
     ```
 
+
  **Install Dependencies**:
+
+
 
    ```bash
    pip install -r requirements.txt
    ```
+
 
 ## Usage
 
