@@ -10,8 +10,10 @@ This project demonstrates emotion classification using a Transformer-based model
 ## Installation
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/yourusername/emotion-classification.git
 
+
 ```bash
-  cd emotion-classification
+   cd emotion-classification
