@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ## Model Details
 
 - **Name**: `SamLowe/roberta-base-go_emotions`
-- **Source**: [Hugging Face](https://huggingface.co/)
+- **Source**: [Hugging Face](https://huggingface.co/SamLowe/roberta-base-go_emotions)
 - **Dataset**: Fine-tuned on the **GoEmotions** dataset by Google, which includes 27 emotion categories.
 
 
