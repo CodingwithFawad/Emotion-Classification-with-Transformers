@@ -11,22 +11,21 @@ This project demonstrates emotion classification using a Transformer-based model
 
  **Clone the Repository**:
    
- ```
-      git clone https://github.com/yourusername/emotion-classification.git
-
- ```
 ```
-     cd emotion-classification
+git clone https://github.com/yourusername/emotion-classification.git
+
+```
+```
+cd emotion-classification
 ```
 
  **Install Dependencies**:
 
- ```
-    pip install -r requirements.txt
+```
+pip install -r requirements.txt
+
 ```
    
-
-
 ## Usage
 
 1. **Run the Application**
@@ -61,7 +60,7 @@ This project demonstrates emotion classification using a Transformer-based model
 - **Source**: [Hugging Face](https://huggingface.co/)
 - **Dataset**: Fine-tuned on the **GoEmotions** dataset by Google, which includes 27 emotion categories.
 
----
+
 
 ## Acknowledgments
 - **Hugging Face**: For providing the pre-trained model and pipeline.
