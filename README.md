@@ -35,7 +35,7 @@ pip install -r requirements.txt
    ```
 
 2. **Access the Interface**  
-   Open your browser and open the Gradio link.
+   Open the Gradio link in a browser.
 
 3. **Classify Emotions**  
    Type a sentence into the input box and click the **Classify** button to view the emotion probabilities.
