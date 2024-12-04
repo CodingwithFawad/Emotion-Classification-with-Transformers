@@ -11,7 +11,7 @@ This project demonstrates emotion classification using a Transformer-based model
 
  **Clone the Repository**:
    
-      ```bash
+ ```bash
       git clone https://github.com/yourusername/emotion-classification.git
 
      ```
@@ -19,7 +19,7 @@ This project demonstrates emotion classification using a Transformer-based model
 
  **Install Dependencies**:
 
-    ```bash
+ ```bash
     pip install -r requirements.txt
    
 
