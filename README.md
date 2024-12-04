@@ -13,21 +13,25 @@ This project demonstrates emotion classification using a Transformer-based model
    
    ```bash
      git clone https://github.com/yourusername/emotion-classification.git
+    ```
 
 
    ```bash
      cd emotion-classification
+    ```
 
  **Install Dependencies**:
 
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## Usage
 
 1. **Run the Application**
    ```bash
    Emotion Classification.py
+   ```
 
 2. **Access the Interface**  
    Open your browser and go to: [http://127.0.0.1:7860](http://127.0.0.1:7860).
