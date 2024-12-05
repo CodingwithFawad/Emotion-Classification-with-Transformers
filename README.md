@@ -30,9 +30,6 @@ pip install -r requirements.txt
 ## Usage
 
 1. **Run the Application**
-```
-python Emotion-Classification-with-Transformers.py
-```
 
 2. **Access the Interface**  
    Open the Gradio link in a browser.
