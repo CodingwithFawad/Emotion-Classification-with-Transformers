@@ -1,3 +1,6 @@
+## Demo
+![Demo](demo/demo.gif)
+
 # Emotion Classification with Transformers 
 
 This project demonstrates emotion classification using a Transformer-based model, `SamLowe/roberta-base-go_emotions`, and a user-friendly interface built with [Gradio](https://gradio.app/). Users can input a sentence and receive a breakdown of emotion probabilities, providing insights into the emotional context of the text.
